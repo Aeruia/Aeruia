@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Aeruia
+- 👋 Hi, I’m George Cazan.
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning NodeJS.
+- 🌱 I’m currently searching for work.
 
 <!---
 Aeruia/Aeruia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
